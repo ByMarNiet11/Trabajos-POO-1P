@@ -1,0 +1,14 @@
+C:\Users\Marcelo Nieto\Documents\Trabajos POO 1P\bin\Debug\net7.0\Trabajos POO 1P.exe
+C:\Users\Marcelo Nieto\Documents\Trabajos POO 1P\bin\Debug\net7.0\Trabajos POO 1P.deps.json
+C:\Users\Marcelo Nieto\Documents\Trabajos POO 1P\bin\Debug\net7.0\Trabajos POO 1P.runtimeconfig.json
+C:\Users\Marcelo Nieto\Documents\Trabajos POO 1P\bin\Debug\net7.0\Trabajos POO 1P.dll
+C:\Users\Marcelo Nieto\Documents\Trabajos POO 1P\bin\Debug\net7.0\Trabajos POO 1P.pdb
+C:\Users\Marcelo Nieto\Documents\Trabajos POO 1P\obj\Debug\net7.0\Trabajos POO 1P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo Nieto\Documents\Trabajos POO 1P\obj\Debug\net7.0\Trabajos POO 1P.AssemblyInfoInputs.cache
+C:\Users\Marcelo Nieto\Documents\Trabajos POO 1P\obj\Debug\net7.0\Trabajos POO 1P.AssemblyInfo.cs
+C:\Users\Marcelo Nieto\Documents\Trabajos POO 1P\obj\Debug\net7.0\Trabajos POO 1P.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Nieto\Documents\Trabajos POO 1P\obj\Debug\net7.0\Trabajos POO 1P.dll
+C:\Users\Marcelo Nieto\Documents\Trabajos POO 1P\obj\Debug\net7.0\refint\Trabajos POO 1P.dll
+C:\Users\Marcelo Nieto\Documents\Trabajos POO 1P\obj\Debug\net7.0\Trabajos POO 1P.pdb
+C:\Users\Marcelo Nieto\Documents\Trabajos POO 1P\obj\Debug\net7.0\Trabajos POO 1P.genruntimeconfig.cache
+C:\Users\Marcelo Nieto\Documents\Trabajos POO 1P\obj\Debug\net7.0\ref\Trabajos POO 1P.dll
